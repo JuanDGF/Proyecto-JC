@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Oswald", sans-serif;    }
+
+.container{
+    margin: 1200px;
+    max-width: 0 auto;
+}
+
+.header{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)),
+        url(https://png.pngtree.com/background/20231222/original/pngtree-modern-black-joysticks-set-on-abstract-light-wallpaper-perfect-for-gaming-picture-image_6936211.jpg);
+        height: 50vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+}   
